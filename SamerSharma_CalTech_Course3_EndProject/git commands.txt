@@ -1,0 +1,14 @@
+*** Commit ***
+
+git commit -m  ""
+
+
+*** PUSH ***
+
+git push https://github.com/sameshar/CalTech_Course4_EndProject_SameerSharma.git master
+
+git push -u origin master
+
+*** Set Repo ***
+
+git remote add origin https://github.com/sameshar/CalTech_Course4_EndProject_SamerSharma.git
