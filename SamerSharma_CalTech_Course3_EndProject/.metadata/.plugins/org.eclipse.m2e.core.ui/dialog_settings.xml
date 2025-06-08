@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\samee\Documents\CalTech_Course4_EndProject_SamerSharma\SamerSharma_CalTech_Course3_EndProject\petclinic"/>
+			<item value="C:\Users\samee\Documents\CalTech_Course4_EndProject_SamerSharma\SamerSharma_CalTech_Course3_EndProject\EurekaServer\EurekaServer"/>
+			<item value="C:\Users\samee\Documents\CalTech_Course4_EndProject_SamerSharma\SamerSharma_CalTech_Course3_EndProject\EurekaServer"/>
+			<item value="C:\Users\samee\Documents\CalTech_Course3_EndProject_SamerSharma\EurekaServerMyCabBuddy"/>
+			<item value="C:\Users\samee\Documents\CalTech_Course4_EndProject_SamerSharma\SamerSharma_CalTech_Course3_EndProject\PetClinic"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>
