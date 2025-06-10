@@ -1,0 +1,3 @@
+FROM openjdk:17
+COPY /petclinic/src/main/resources/petclinic.jar
+CMD [“java”, “-jar”, “petclinic.jar”]
